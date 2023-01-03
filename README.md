@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fariz</h1>
+<h1 align="center">Hi 👋, I'm FMA</h1>
 <h3 align="center">Just some messy guy from southeast asia, who currently trying to become a modern-day version of a renaissance man, also known as a hyper learner. I am striving to acquire a diverse set of skills and knowledge across a wide range of disciplines, much like the polymaths of the renaissance era.</h3>
 
 - 🔭 I’m currently working on [Gamsahabnida! Online Merch Store](https://github.com/FMATheNomad/gamsahabnida-oks-project)
