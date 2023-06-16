@@ -7,13 +7,13 @@ Hi there! 👋 I'm FMA, a messy guy from Southeast Asia on a quest to become a m
 - 🌱 Currently learning: Java, Maven, Vaadin
 - 👨‍💻 All of my projects are available at [https://github.com/FMATheNomad](https://github.com/FMATheNomad)
 - 💬 Tech stack: HTML, CSS, JavaScript, PHP, Bootstrap, Materialize, Git, GitHub, MySQL, Sass, TailwindCSS, Python, Django, Java, Vaadin
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fariz-muhammad-aditya-06552422a/)
+- 📫 How to reach me: [Gmail](farizmuhammadaditya682@gmail.com)
 
 ## Connect with Me
 
 Let's connect! You can find me on the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/fariz-muhammad-aditya-06552422a/)
+- [Gmail](farizmuhammadaditya682@gmail.com)
 
 ## Languages and Tools
 
