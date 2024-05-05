@@ -1,7 +1,7 @@
 Starry, starry night
 
-Paint your palette blue and gray
+Portraits hung in empty halls
 
-Look out on a summer's day
+Frameless heads on nameless walls
 
-With eyes that know the darkness in my soul
+With eyes that watch the world and can't forget
