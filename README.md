@@ -45,16 +45,5 @@ I'm a passionate Fullstack JavaScript Web Developer with experience in building 
 
 ## 🚀 Projects
 
-### [Project 1: MindCheck](https://fmathenomad.github.io/mindcheck/)
-Psycopath test build with Javascript and Bootstrap.
-
-### [Project 2: SociaInnovate](https://fmathenomad.github.io/socia-innovate/)
-Innovator and Investor Hub web app.
-
-### [Project 3: Port Mansys](https://fmathenomad.github.io/simple-port-mansys/)
-A simple and basic container port management system buil with Javascript.
-
-### [Project 4: TodoList](https://github.com/FMATheNomad/todo-list-basic)
-Simple todo-list app built with nodejs, and mongodb
 
 Thank you for visiting my profile! Feel free to reach out to me if you have any questions or collaboration ideas. Let's build something amazing together! 🚀
