@@ -1,12 +1,59 @@
 # Hi there, I'm Fariz Muhammad Aditya 👋
 
-## 📫 Get in Touch
+🚀 AI Builder | Python Developer | Solo Founder in Progress  
 
-- **LinkedIn:** [Fariz MA](https://www.linkedin.com/in/farizma)
-- **Twitter:** [@FMATheNomad](https://twitter.com/FMATheNomad)
+I build AI-powered systems, automation tools, and scalable SaaS ideas.
+
+---
+
+## 🧠 About Me
+
+- 💡 Focused on AI Agents & Automation Systems  
+- 🏗️ Building:
+  - **FMA Software Labs**
+  - **FMA Bot Systems**
+- 🎯 Goal: Build a lean AI-powered tech holding  
+- ⚙️ Interest: AI, Automation, SaaS, System Design  
+
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python (Core)
+- 🤖 AI Tools (LLMs, AI Agents)
+- 🔗 APIs & Integrations
+- ⚙️ Automation Systems
+- 📊 Data Processing (basic → growing)
+
+---
 
 ## 🌱 Currently Learning
 
-- [ ] Javascript
+- AI Agent Architecture (LangChain, etc.)
+- Backend Systems (FastAPI, etc.)
+- Scalable SaaS Building
+- Product Thinking
 
-Thank you for visiting my profile! Feel free to reach out to me if you have any questions or collaboration ideas. Let's build something amazing together! 🚀
+---
+
+## 📫 Get in Touch
+
+- LinkedIn: Fariz MA  
+- Twitter/X: @FMATheNomad  
+
+---
+
+## ⚡ Vision
+
+> Building a solo AI-powered tech ecosystem.
+
+---
+
+## 🤝 Collaboration
+
+Open for:
+- AI tools
+- automation systems
+- SaaS experiments
+
+Let’s build something impactful 🚀
