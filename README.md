@@ -4,7 +4,8 @@
 
 I build AI-powered systems, automation tools, and scalable SaaS ideas.
 
-🎧 The Ministry Of Lost Souls by Dream Theater
+🎧 Femme fatale: II. Hedda Gabler by Belinda Gehlert, Zephyr Quartet
+
 ---
 
 ## 🧠 About Me
