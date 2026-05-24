@@ -4,7 +4,7 @@
 
 I build AI-powered systems, automation tools, and scalable SaaS ideas.
 
-🎧 Femme fatale: II. Hedda Gabler by Belinda Gehlert, Zephyr Quartet
+🎧 Alter Bridge - Blackbird🐦‍⬛
 
 ---
 
