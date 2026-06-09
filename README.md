@@ -1,7 +1,5 @@
 # Hi there, I'm Fariz Muhammad Aditya 👋
 
-<img src="https://algora.io/og/user/FMATheNomad" />
-
 🚀 AI Builder | Python Developer | Solo Founder in Progress  
 
 I build AI-powered systems, automation tools, and scalable SaaS ideas.
@@ -9,8 +7,6 @@ I build AI-powered systems, automation tools, and scalable SaaS ideas.
 🎧 Alter Bridge - Blackbird🐦‍⬛
 
 Visit my website: https://fmasoftwarelabs.up.railway.app/
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FMATheNomad&theme=onedark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
 ## 🧠 About Me
 
