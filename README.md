@@ -1,5 +1,7 @@
 # Hi there, I'm Fariz Muhammad Aditya 👋
 
+<img src="https://algora.io/og/user/FMATheNomad" />
+
 🚀 AI Builder | Python Developer | Solo Founder in Progress  
 
 I build AI-powered systems, automation tools, and scalable SaaS ideas.
