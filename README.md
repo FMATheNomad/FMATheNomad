@@ -37,7 +37,7 @@ AI-powered debt management assistant for Indonesian users. Multi-platform (Teleg
 - ⚙️ Automation Systems
 - 📊 Data Processing (basic → growing)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmathenomad&stats_format=bytes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmathenomad&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
