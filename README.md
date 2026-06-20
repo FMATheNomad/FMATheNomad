@@ -55,7 +55,7 @@ I build **AI WhatsApp automation** for Indonesian businesses — clinics, proper
 
 ## 🎯 Current Focus
 
-- Monetizing JatuhTempo (Midtrans integration)
+- Monetizing JatuhTempo (polar.sh integration) partnering with Guru Gembul & Komunitas Bebas Utang (KOMBUT)
 - AI WhatsApp automation services for Indonesian SMEs
 - Building in public on [X/Twitter](https://x.com/fmathenomad)
 
@@ -64,6 +64,10 @@ I build **AI WhatsApp automation** for Indonesian businesses — clinics, proper
 ## 📫 Connect
 
 - **Email:** [fmasoftwarelabs@gmail.com](mailto:fmasoftwarelabs@gmail.com)
+- **LinkedIn:** [in/farizma](https://linkedin.com/in/farizma)
+- **ProductHunt:** [@fariz_muhammad_aditya](https://www.producthunt.com/@fariz_muhammad_aditya)
+- **Skills.sh:** [fmathenomad](https://www.skills.sh/fmathenomad/)
+- **Discord:** `@fmathenomad`
 - **X/Twitter:** [@fmaTheNomad](https://x.com/fmathenomad)
 - **Telegram:** [@fmathenomad](https://t.me/fmathenomad)
 - **Website:** [fmasoftwarelabs.up.railway.app](https://fmasoftwarelabs.up.railway.app)
