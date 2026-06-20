@@ -1,73 +1,75 @@
 # Hi there, I'm Fariz Muhammad Aditya 👋
 
-🚀 AI Builder | Python Developer | Solo Founder in Progress  
+🚀 **Solo Founder** | **AI-Native Engineer** | **Python & TypeScript**
 
-I build AI-powered systems, automation tools, and scalable SaaS ideas.
+Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an AI-native software studio crafting micro-SaaS, micro-GaaS, developer tools, and AI automation services.
 
-🎧 Alter Bridge - Blackbird🐦‍⬛
-
-Visit my website: https://fmasoftwarelabs.up.railway.app/
-
-## 🧠 About Me
-
-- 💡 Focused on AI Agents & Automation Systems  
-- 🏗️ Building:
-  - **FMA Software Labs**
-  - **FMA Bot Systems**
-- 🎯 Goal: Build a lean AI-powered tech holding  
-- ⚙️ Interest: AI, Automation, SaaS, System Design, Game Bot
+🎧 Alter Bridge — Blackbird 🐦‍⬛
 
 ---
 
-## 📦 Latest Projects
+## 📦 Products
 
-### ⚔️ [Debt War](https://github.com/FMATheNomad/debtwar)
-Social Chaos Economy MMO — Telegram game bot. Utang, tagih, jebak, casino, gang, court, lootbox, credit score, season. Python + python-telegram-bot + PostgreSQL.
+| Product | Status | Description |
+|---------|--------|-------------|
+| [JatuhTempo](https://github.com/FMATheNomad/jatuhtempo) | 🟢 In Dev | AI debt management for Indonesian BNPL users. Telegram bot + web dashboard + OCR. |
+| [DebtWar](https://github.com/FMATheNomad/debtwar) | 🟡 Parked | Social chaos economy MMO on Telegram. 11k LOC, Xsolla payments. |
+| [RupiahPulse](https://github.com/FMATheNomad/rupiahpulse) | 🟢 Live | Real-time Rupiah health index tracker. FastAPI + React + ECharts. |
+| [Minicrane](https://github.com/FMATheNomad/uyuhan-jaya) | 🔵 In Dev | WhatsApp-first construction project management for Indonesian contractors. |
+| [Worksync](https://github.com/FMATheNomad/worksync-app) | 👔 Client | AI workforce management SaaS. GPS attendance, AI reports, real-time maps. |
 
-### 🧠 [JatuhTempo](https://github.com/FMATheNomad/jatuhtempo)
-AI-powered debt management assistant for Indonesian users. Multi-platform (Telegram + API) dengan OCR, FastAPI, aiogram, PostgreSQL.  
+### 🧩 Prompt Products
+5 AI Debug Toolkit bundles for Python, JavaScript, TypeScript, Go, and Java developers. [Gumroad](https://fmasoftwarelabs.gumroad.com/) · [Payhip](https://payhip.com/FMASoftwareLabs/)
+
+### 🔧 Open Source Skills
+| Skill | Description |
+|-------|-------------|
+| [Deep Research Skill](https://github.com/FMATheNomad/deep-research-skill) | Parallel web research inside AI coding agents. Free, no API keys. |
+| [Railway Deploy Skill](https://github.com/FMATheNomad/railway-deploy-skill) | AI agent auto-diagnoses & fixes Railway deployment crashes. |
+
+---
+
+## 💼 AI Services
+
+I build **AI WhatsApp automation** for Indonesian businesses — clinics, property, franchises, and education. Done-for-you setup + monthly retainer. [Contact me](mailto:fmasoftwarelabs@gmail.com).
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 🐍 Python (Core)
-- 🤖 AI Tools (LLMs, AI Agents)
-- 🔗 APIs & Integrations
-- ⚙️ Automation Systems
-- 📊 Data Processing (basic → growing)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmathenomad&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+**Languages:** Python · TypeScript · JavaScript  
+**Frameworks:** Next.js · React · FastAPI · Tailwind CSS · Vite  
+**Databases:** PostgreSQL · SQLite · SQLAlchemy · Drizzle ORM · Prisma  
+**AI:** DeepSeek · GPT-4o · Claude · PaddleOCR · Tesseract  
+**Infra:** Docker · Railway · MapLibre GL · Apache ECharts · Radix UI · Zustand · Lucide
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-- AI Agent Architecture (LangChain, etc.)
-- Backend Systems (FastAPI, etc.)
-- Scalable SaaS Building
-- Product Thinking
+![FMATheNomad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FMATheNomad&show_icons=true&theme=onedark&hide_border=true)
 
----
-
-## 📫 Get in Touch
-
-- LinkedIn: Fariz MA  
-- Twitter/X: @FMATheNomad  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMATheNomad&layout=donut&theme=onedark&hide_border=true)
 
 ---
 
-## ⚡ Vision
+## 🎯 Current Focus
 
-> Building a solo AI-powered tech ecosystem.
+- Monetizing JatuhTempo (Midtrans integration)
+- AI WhatsApp automation services for Indonesian SMEs
+- Building in public on [X/Twitter](https://x.com/fmathenomad)
 
 ---
 
-## 🤝 Collaboration
+## 📫 Connect
 
-Open for:
-- AI tools
-- automation systems
-- SaaS experiments
+- **Email:** [fmasoftwarelabs@gmail.com](mailto:fmasoftwarelabs@gmail.com)
+- **X/Twitter:** [@fmaTheNomad](https://x.com/fmathenomad)
+- **Telegram:** [@fmathenomad](https://t.me/fmathenomad)
+- **Website:** [fmasoftwarelabs.up.railway.app](https://fmasoftwarelabs.up.railway.app)
+- **GitHub:** [FMATheNomad](https://github.com/FMATheNomad)
 
-Let’s build something impactful 🚀
+---
+
+> *"The bottleneck moved from building to distribution."*  
+> *Solo founder. No investors. Just code.*
