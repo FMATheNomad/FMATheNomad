@@ -21,7 +21,7 @@ Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an 
 ### 🧩 Prompt Products
 5 AI Debug Toolkit bundles for Python, JavaScript, TypeScript, Go, and Java developers. [Gumroad](https://fmasoftwarelabs.gumroad.com/) · [Payhip](https://payhip.com/FMASoftwareLabs/)
 
-### 🔧 Open Source Skills
+### 🔧 Open Source Skills/Tools for Ai Agent
 | Skill | Description |
 |-------|-------------|
 | [Deep Research Skill](https://github.com/FMATheNomad/deep-research-skill) | Parallel web research inside AI coding agents. Free, no API keys. |
