@@ -16,7 +16,7 @@ Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an 
 | [DebtWar](https://github.com/FMATheNomad/debtwar) | 🟡 Parked | Social chaos economy MMO on Telegram. 11k LOC, Xsolla payments. |
 | [RupiahPulse](https://github.com/FMATheNomad/rupiahpulse) | 🔵 Live | Real-time Rupiah health index tracker. FastAPI + React + ECharts. |
 | [Minicrane](https://github.com/FMATheNomad/uyuhan-jaya) | 🟢 In Dev | WhatsApp-first construction project management for Indonesian contractors. |
-| [Worksync](https://github.com/FMATheNomad/worksync-app) | 👔 Client | AI workforce management SaaS. GPS attendance, AI reports, real-time maps. |
+| [Worksync](https://github.com/FMATheNomad/worksync-app) | 👔 Client Project | AI workforce management SaaS. GPS attendance, AI reports, real-time maps. |
 
 ### 🧩 Prompt Products
 5 AI Debug Toolkit bundles for Python, JavaScript, TypeScript, Go, and Java developers. [Gumroad](https://fmasoftwarelabs.gumroad.com/) · [Payhip](https://payhip.com/FMASoftwareLabs/)
