@@ -12,26 +12,39 @@ Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an 
 
 | Product | Status | Description |
 |---------|--------|-------------|
-| [JatuhTempo](https://github.com/FMATheNomad/jatuhtempo) | 🟢 In Dev | AI debt management for Indonesian BNPL users. Telegram bot + web dashboard + OCR. |
-| [DebtWar](https://github.com/FMATheNomad/debtwar) | 🟡 Parked | Social chaos economy MMO on Telegram. 11k LOC, Xsolla payments. |
 | [RupiahPulse](https://github.com/FMATheNomad/rupiahpulse) | 🔵 Live | Real-time Rupiah health index tracker. FastAPI + React + ECharts. |
 | [Minicrane](https://github.com/FMATheNomad/uyuhan-jaya) | 🟢 In Dev | WhatsApp-first construction project management for Indonesian contractors. |
-| [Worksync](https://github.com/FMATheNomad/worksync-app) | 👔 Client Project | AI workforce management SaaS. GPS attendance, AI reports, real-time maps. |
+| [Worksync](https://github.com/FMATheNomad/worksync-app) | 👔 Client | AI workforce management SaaS. GPS attendance, AI reports, real-time maps. |
+| [JatuhTempo](https://github.com/FMATheNomad/jatuhtempo) | 🟡 Parked | AI debt management for Indonesian BNPL users. Telegram bot + web dashboard + OCR. |
+| [DebtWar](https://github.com/FMATheNomad/debtwar) | 🟡 Parked | Social chaos economy MMO on Telegram. 11k LOC, Xsolla payments. |
 
 ### 🧩 Prompt Products
-5 AI Debug Toolkit bundles for Python, JavaScript, TypeScript, Go, and Java developers. [Gumroad](https://fmasoftwarelabs.gumroad.com/) · [Payhip](https://payhip.com/FMASoftwareLabs/)
+5 AI Debug Toolkit bundles for Python, JavaScript, TypeScript, Go, and Java. [Gumroad](https://fmasoftwarelabs.gumroad.com/) · [Payhip](https://payhip.com/FMASoftwareLabs/)
 
-### 🔧 Open Source Skills/Tools for Ai Agent
+---
+
+## 🔧 Open Source
+
+### Developer Tools
+| Project | Description |
+|---------|-------------|
+| [AIVerify](https://github.com/FMATheNomad/aiverify) | Detect AI hallucinations in code before they reach production. |
+| [CodeMap](https://github.com/FMATheNomad/codemap) | Interactive dependency graph for any codebase (VS Code). |
+| [ContextPack](https://github.com/FMATheNomad/contextpack) | Package only relevant files as AI-ready context. |
+| [DepCheck AI](https://github.com/FMATheNomad/depcheckai) | Dependency health scanner with replacement suggestions. |
+| [SkillSmith](https://github.com/FMATheNomad/skillsmith) | Write AI agent skills once, export to any agent format. |
+
+### Agent Skills
 | Skill | Description |
 |-------|-------------|
-| [Deep Research Skill](https://github.com/FMATheNomad/deep-research-skill) | Parallel web research inside AI coding agents. Free, no API keys. |
-| [Railway Deploy Skill](https://github.com/FMATheNomad/railway-deploy-skill) | AI agent auto-diagnoses & fixes Railway deployment crashes. |
+| [Deep Research Skill](https://github.com/FMATheNomad/deep-research-skill) · [skills.sh](https://www.skills.sh/fmathenomad/deep-research-skill/deep-research) | Parallel web research inside AI coding agents. Free, no API keys. |
+| [Railway Deploy Skill](https://github.com/FMATheNomad/railway-deploy-skill) · [skills.sh](https://skills.sh/FMATheNomad/railway-deploy-skill/railway-deploy) | AI agent auto-diagnoses & fixes Railway deployment crashes. |
 
 ---
 
 ## 💼 AI Services
 
-I build **AI WhatsApp automation** for Indonesian businesses — clinics, property, franchises, and education. Done-for-you setup + monthly retainer. [Contact me](mailto:fmasoftwarelabs@gmail.com).
+AI WhatsApp automation for Indonesian businesses — clinics, property, franchises, education. Setup fee + monthly retainer. [Contact me](mailto:fmasoftwarelabs@gmail.com).
 
 ---
 
@@ -55,8 +68,8 @@ I build **AI WhatsApp automation** for Indonesian businesses — clinics, proper
 
 ## 🎯 Current Focus
 
-- Monetizing JatuhTempo (polar.sh integration) partnering with Guru Gembul & Komunitas Bebas Utang (KOMBUT)
-- AI WhatsApp automation services for Indonesian SMEs
+- Finishing before starting new. Focus on distribution of existing products and oss projects, not building new ones.
+- OSS distribution: growing aiverify, contextpack, skillsmith, codemap, and depcheck-ai to real adoption
 - Building in public on [X/Twitter](https://x.com/fmathenomad)
 
 ---
