@@ -4,8 +4,6 @@
 
 Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an AI-native software studio crafting micro-SaaS, micro-GaaS, developer tools, and AI automation services.
 
-🎧 Alter Bridge — Blackbird 🐦‍⬛
-
 ---
 
 ## 📦 Products
