@@ -69,7 +69,7 @@ AI WhatsApp automation for Indonesian businesses — clinics, property, franchis
 ## 🎯 Current Focus
 
 - Finishing before starting new. Focus on distribution of existing products and oss projects, not building new ones.
-- OSS distribution: growing aiverify, contextpack, skillsmith, codemap, and depcheck-ai to real adoption
+- Building & distributing open source developer tools (aiverify, contextpack, skillsmith, codemap, depcheck-ai)
 - Building in public on [X/Twitter](https://x.com/fmathenomad)
 
 ---
