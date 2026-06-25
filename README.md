@@ -60,6 +60,7 @@ AI WhatsApp automation for Indonesian businesses — clinics, property, franchis
 
 <img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/e9050a09-3d12-43b1-b5eb-06e8885f16c0" />
 
+
 ![FMATheNomad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FMATheNomad&show_icons=true&theme=onedark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMATheNomad&layout=donut&theme=onedark&hide_border=true)
