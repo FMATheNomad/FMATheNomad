@@ -12,6 +12,7 @@ Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an 
 |---------|--------|-------------|
 | [RupiahPulse](https://github.com/FMATheNomad/rupiahpulse) | 🔵 Live | Real-time Rupiah health index tracker. FastAPI + React + ECharts. |
 | [Minicrane](https://github.com/FMATheNomad/uyuhan-jaya) | 🟢 In Dev | WhatsApp-first construction project management for Indonesian contractors. |
+| [FMA Labs Research](https://github.com/FMATheNomad/fmalresearch) | 🟢 In Dev | AI research assistant — multi-source search with structured reports. |
 | [Worksync](https://github.com/FMATheNomad/worksync-app) | 👔 Client | AI workforce management SaaS. GPS attendance, AI reports, real-time maps. |
 | [JatuhTempo](https://github.com/FMATheNomad/jatuhtempo) | 🟡 Parked | AI debt management for Indonesian BNPL users. Telegram bot + web dashboard + OCR. |
 | [DebtWar](https://github.com/FMATheNomad/debtwar) | 🟡 Parked | Social chaos economy MMO on Telegram. 11k LOC, Xsolla payments. |
@@ -40,12 +41,6 @@ Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an 
 
 ---
 
-## 💼 AI Services
-
-AI WhatsApp automation for Indonesian businesses — clinics, property, franchises, education. Setup fee + monthly retainer. [Contact me](mailto:fmasoftwarelabs@gmail.com).
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** Python · TypeScript · JavaScript  
@@ -57,9 +52,6 @@ AI WhatsApp automation for Indonesian businesses — clinics, property, franchis
 ---
 
 ## 📊 GitHub Stats
-
-<img width="676" height="745" alt="image" src="https://github.com/user-attachments/assets/e9050a09-3d12-43b1-b5eb-06e8885f16c0" />
-
 
 ![FMATheNomad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FMATheNomad&show_icons=true&theme=onedark&hide_border=true)
 
