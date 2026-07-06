@@ -70,13 +70,14 @@ Building tools that help engineers ship faster with AI.
 | [ContextPack](https://github.com/FMATheNomad/contextpack) | Package only relevant files as AI-ready context | 🚀 Active |
 | [DepCheck AI](https://github.com/FMATheNomad/depcheckai) | Dependency health scanner with replacement suggestions | 🚀 Active |
 | [SkillSmith](https://github.com/FMATheNomad/skillsmith) | Write AI agent skills once, export to any agent format | 🚀 Active |
+| [Trading Agent](https://github.com/FMATheNomad/trading-agent) | 🥁 Blast Engine + Rothschild Asymmetry — 100% engineering crypto trading bot for Indodax. Velocity-aware signals, Paradiddle pattern matching, Multi-Bin system, Order Book pressure. 0 AI cost. | 🚀 Active |
 
 ### 🤖 Agent Skills
 
 | Skill | Links | Description |
 |-------|-------|-------------|
-| **Deep Research Skill** | [GitHub](https://github.com/FMATheNomad/deep-research-skill) · [skills.sh](https://www.skills.sh/fmathenomad/deep-research-skill/deep-research) | Parallel web research inside AI co-pilots |
-| **Railway Deploy Skill** | [GitHub](https://github.com/FMATheNomad/railway-deploy-skill) · [skills.sh](https://skills.sh/FMATheNomad/railway-deploy-skill/railway-deploy) | AI agent auto-diagnoses & fixes Railway deployments |
+| **Deep Research Skill** | [GitHub](https://github.com/FMATheNomad/deep-research-skill) · [skills.sh](https://www.skills.sh/fmathenomad/deep-research-skill/deep-research) | Parallel web research[...]
+| **Railway Deploy Skill** | [GitHub](https://github.com/FMATheNomad/railway-deploy-skill) · [skills.sh](https://skills.sh/FMATheNomad/railway-deploy-skill/railway-deploy) | AI agent auto-diagnos[...]
 
 ---
 
