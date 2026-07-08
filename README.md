@@ -2,6 +2,8 @@
 
 🚀 **Solo Founder** | **AI-Native Engineer** | **Python & TypeScript**
 
+> ⚠️ **Heads up:** This profile README was generated with the help of GitHub Copilot. A few details might be hallucinated, but the rest has been checked and is accurate.
+
 Building **[FMA Software Labs](https://fmasoftwarelabs.up.railway.app)** — an AI-native software studio crafting micro-SaaS, micro-GaaS, developer tools, and AI automation services.
 
 [![Email](https://img.shields.io/badge/Email-fmasoftwarelabs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fmasoftwarelabs@gmail.com)
